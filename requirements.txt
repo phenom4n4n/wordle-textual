@@ -1,0 +1,2 @@
+git+https://github.com/Textualize/textual.git@38efc821737e3158a8c4c7ef8ecfa953dc7c0ba8
+pyfiglet==0.8.post1
